@@ -1,4 +1,7 @@
 # BFund - webapp
+
+How this web application works
+
 Application for members to view and opt-in to PRODUCTS presented via page/posts
 
 The site will host 4 PUBLIC pages. 3 static and 1 dynamic for LOG-IN
@@ -32,11 +35,18 @@ LINK to USER SERVICES CONCEIERGE
 
 </Dashboard
 
-<Product post/page
+<Product page
 Print Product descriptions/PRODUCT ASSETS 
 Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)
+</Product page
 
 <API page
-APIuser DISPLAYS: each Product and "OPT-Ins" to product
+APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName
 DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE
+</API page
 
+DATABASES required:
+1. USER
+  DB info required: permissionLevel; userName, password, firstName, lastName, email, birthDate, phoneNumber, {repeating} productOptInX, optInForXCost.
+2. PRODUCT
+  DB info required: productName, productQualities, ProductActive.
