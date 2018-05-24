@@ -14,11 +14,11 @@ USER SERVICES CONCIERGE;<br>
 PRODUCT PAGE;<br>
 API PAGE;<br>
 
-Site will have 4 levels of access to PRIVATE sites<br>
+Site will have 4 levels of access to PRIVATE sites<br><br>
 Public - level 0<br><br>
 USER (level 1) - <br>view DASHBOARD, <br>view SELECTED OPT-INs; <br>view USER SERVICES CONCIERE; <br>toggle PRODUCT PAGE, <br>edit USER ACCOUNT INFO<br><br>
 API/Dev (level 2) - <br>edit SELECTED OPT-INs, <br>edit USER ACCOUNT INFO, <br>view DASHBOARD, <br>edit PRODUCT PAGE, <br>view API PAGE<br><br>
-Master (Level 3) - edit all<br>
+Master (Level 3) - edit all<br><br>
 
 Log in dynamic site will check username and password against USER database;
 
