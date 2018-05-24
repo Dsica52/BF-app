@@ -26,35 +26,36 @@ Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted
 
 DASHBOARD page
 
-  Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.
-  Left/NAV 
-    LINK to account info/USER DATABASE EDIT page
-    LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page
-    LINK to USER SERVICES CONCEIERGE 
+  Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.<br>
+  Left/NAV <br>
+    LINK to account info/USER DATABASE EDIT page<br>
+    LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page<br>
+    LINK to USER SERVICES CONCEIERGE <br>
 
 USER ACCOUNT INFO page<br>
-  Print USER info fields: userName, firstName, lastName, email, phoneNumber
-  Request edits and allow updates
+  Print USER info fields: userName, firstName, lastName, email, phoneNumber<br>
+  Request edits and allow updates<br>
 
 
 SELECTED OPT-INS page<br>
-  Print PRODUCTS which USER has selected to opt-in 
-  Link to product page
+  Print PRODUCTS which USER has selected to opt-in <br>
+  Link to product page<br>
 
 
 USER SERVICES CONCIERGE page <br>
-  FAQ tabs
-  Report requests
-  USER history widget
+
+  FAQ tabs<br>
+  Report requests<br>
+  USER history widget<br>
 
 PRODUCT page<br>
-  Print Product descriptions/PRODUCT ASSETS 
-  Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)
-
+  Print Product descriptions/PRODUCT ASSETS <br>
+  Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)<br>
 
 API page<br>
-  APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName
-  DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE
+
+  APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName<br>
+  DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE<br>
 
 
 DATABASES required:
