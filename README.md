@@ -7,17 +7,17 @@ Application is for members to view and opt-in to PRODUCTS presented via pages
 The site will host 4 PUBLIC pages. 3 static and 1 dynamic for LOG-IN
 
 Site will 6 PRIVATE pages:<br>
-DASHBOARD;<br>
-USER ACCOUNT INFO;<br>
-SELECTED OPT-INs;<br>
-USER SERVICES CONCIERGE;<br>
-PRODUCT PAGE;<br>
-API PAGE;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DASHBOARD;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;USER ACCOUNT INFO;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;SELECTED OPT-INs;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;USER SERVICES CONCIERGE;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;PRODUCT PAGE;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;API PAGE;<br>
 
 Site will have 4 levels of access to PRIVATE sites<br><br>
 Public - level 0<br><br>
-USER (level 1) - <br>view DASHBOARD, <br>view SELECTED OPT-INs; <br>view USER SERVICES CONCIERE; <br>toggle PRODUCT PAGE, <br>edit USER ACCOUNT INFO<br><br>
-API/Dev (level 2) - <br>edit SELECTED OPT-INs, <br>edit USER ACCOUNT INFO, <br>view DASHBOARD, <br>edit PRODUCT PAGE, <br>view API PAGE<br><br>
+USER (level 1) - <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nbsp;&nbsp;view SELECTED OPT-INs; <br>&nbsp;&nbsp;&nbsp;&nbsp;view USER SERVICES CONCIERE; <br>&nbsp;&nbsp;&nbsp;&nbsp;toggle PRODUCT PAGE, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit USER ACCOUNT INFO<br><br>
+API/Dev (level 2) - <br>&nbsp;&nbsp;&nbsp;&nbsp;edit SELECTED OPT-INs, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit USER ACCOUNT INFO, <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit PRODUCT PAGE, <br>&nbsp;&nbsp;&nbsp;&nbsp;view API PAGE<br><br>
 Master (Level 3) - edit all<br><br>
 
 Log in dynamic site will check username and password against USER database;
@@ -43,7 +43,6 @@ SELECTED OPT-INS page<br><br>
 
 
 USER SERVICES CONCIERGE page <br><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;FAQ tabs<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Report requests<br>
 &nbsp;&nbsp;&nbsp;&nbsp;USER history widget<br>
