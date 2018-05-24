@@ -27,40 +27,38 @@ Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted
 DASHBOARD page
 
   Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.
-
   Left/NAV 
-  LINK to account info/USER DATABASE EDIT page
-  LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page
-  LINK to USER SERVICES CONCEIERGE 
-</
+    LINK to account info/USER DATABASE EDIT page
+    LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page
+    LINK to USER SERVICES CONCEIERGE 
 
-USER ACCOUNT INFO page
+USER ACCOUNT INFO page<br>
   Print USER info fields: userName, firstName, lastName, email, phoneNumber
   Request edits and allow updates
-</
 
-SELECTED OPT-INS page
+
+SELECTED OPT-INS page<br>
   Print PRODUCTS which USER has selected to opt-in 
   Link to product page
-</
 
-USER SERVICES CONCIERGE page 
+
+USER SERVICES CONCIERGE page <br>
   FAQ tabs
   Report requests
   USER history widget
 
-PRODUCT page
+PRODUCT page<br>
   Print Product descriptions/PRODUCT ASSETS 
   Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)
-</  
 
-API page
+
+API page<br>
   APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName
   DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE
-</
+
 
 DATABASES required:
 1. USER
-  DB info required: <br>permissionLevel; <br>userName, <br>password, <br>firstName, <br>lastName, <br>email, <br>birthDate, <br>phoneNumber, <br>{repeating} productOptInX, optInForXCost.
+  DB info required: <br>permissionLevel; <br>userName, <br>password, <br>firstName, <br>lastName, <br>email, <br>birthDate, <br>phoneNumber, <br>{repeating} productOptInX, optInForXCost.<br>
 2. PRODUCT
   DB info required: <br>productName, <br>productQualities(tradeSecret), <br>productActive.
