@@ -24,38 +24,38 @@ Log in dynamic site will check username and password against USER database;
 
 Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted, user is forwarded to DASHBOARD page and information is displayed through a VIEWER using GET from USER database model
 
-DASHBOARD page
+DASHBOARD page<br><br>
 
-  Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.<br>
   Left/NAV <br>
-    LINK to account info/USER DATABASE EDIT page<br>
-    LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page<br>
-    LINK to USER SERVICES CONCEIERGE <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;LINK to account info/USER DATABASE EDIT page<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;LINK to USER SERVICES CONCEIERGE <br>
 
-USER ACCOUNT INFO page<br>
-  Print USER info fields: userName, firstName, lastName, email, phoneNumber<br>
-  Request edits and allow updates<br>
-
-
-SELECTED OPT-INS page<br>
-  Print PRODUCTS which USER has selected to opt-in <br>
-  Link to product page<br>
+USER ACCOUNT INFO page<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Print USER info fields: userName, firstName, lastName, email, phoneNumber<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Request edits and allow updates<br>
 
 
-USER SERVICES CONCIERGE page <br>
+SELECTED OPT-INS page<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Print PRODUCTS which USER has selected to opt-in <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Link to product page<br>
 
-  FAQ tabs<br>
-  Report requests<br>
-  USER history widget<br>
 
-PRODUCT page<br>
-  Print Product descriptions/PRODUCT ASSETS <br>
-  Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)<br>
+USER SERVICES CONCIERGE page <br><br>
 
-API page<br>
+&nbsp;&nbsp;&nbsp;&nbsp;FAQ tabs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Report requests<br>
+&nbsp;&nbsp;&nbsp;&nbsp;USER history widget<br>
 
-  APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName<br>
-  DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE<br>
+PRODUCT page<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Print Product descriptions/PRODUCT ASSETS <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)<br>
+
+API page<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName<br>
+&nbsp;&nbsp;&nbsp;&nbsp;DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE<br>
 
 
 DATABASES required:
