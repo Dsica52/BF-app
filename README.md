@@ -53,7 +53,6 @@ PRODUCT page<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)<br>
 
 API page<br><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName<br>
 &nbsp;&nbsp;&nbsp;&nbsp;DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE<br>
 
