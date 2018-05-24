@@ -61,6 +61,6 @@ API page
 
 DATABASES required:
 1. USER
-  DB info required: permissionLevel; userName, password, firstName, lastName, email, birthDate, phoneNumber, {repeating} productOptInX, optInForXCost.
+  DB info required: <br>permissionLevel; <br>userName, <br>password, <br>firstName, <br>lastName, <br>email, <br>birthDate, <br>phoneNumber, <br>{repeating} productOptInX, optInForXCost.
 2. PRODUCT
-  DB info required: productName, productQualities(tradeSecret), productActive.
+  DB info required: <br>productName, <br>productQualities(tradeSecret), <br>productActive.
