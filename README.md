@@ -15,9 +15,9 @@ PRODUCT PAGE;<br>
 API PAGE;<br>
 
 Site will have 4 levels of access to PRIVATE sites<br>
-Public - level 0<br>
-USER (level 1) - view DASHBOARD, view SELECTED OPT-INs; view USER SERVICES CONCIERE; toggle PRODUCT PAGE, edit USER ACCOUNT INFO<br>
-API/Dev (level 2) - edit SELECTED OPT-INs, edit USER ACCOUNT INFO, view DASHBOARD, edit PRODUCT PAGE, view API PAGE<br>
+Public - level 0<br><br>
+USER (level 1) - <br>view DASHBOARD, <br>view SELECTED OPT-INs; <br>view USER SERVICES CONCIERE; <br>toggle PRODUCT PAGE, <br>edit USER ACCOUNT INFO<br><br>
+API/Dev (level 2) - <br>edit SELECTED OPT-INs, <br>edit USER ACCOUNT INFO, <br>view DASHBOARD, <br>edit PRODUCT PAGE, <br>view API PAGE<br><br>
 Master (Level 3) - edit all<br>
 
 Log in dynamic site will check username and password against USER database;
