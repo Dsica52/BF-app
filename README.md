@@ -23,7 +23,7 @@ Master (Level 3) - edit all<br>
 Log in dynamic site will check username and password against USER database;
 
 Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted, user is forwarded to DASHBOARD page and information is displayed through a VIEWER using GET from USER database model
-=============================================================
+
 DASHBOARD page
 
   Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.
