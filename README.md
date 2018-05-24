@@ -59,6 +59,6 @@ API page<br><br>
 
 DATABASES required:
 1. USER
-  DB info required: <br>permissionLevel; <br>userName, <br>password, <br>firstName, <br>lastName, <br>email, <br>birthDate, <br>phoneNumber, <br>{repeating} productOptInX, optInForXCost.<br>
+  DB info required: <br>&nbsp;&nbsp;&nbsp;&nbsp;permissionLevel; <br>&nbsp;&nbsp;&nbsp;&nbsp;userName, <br>&nbsp;&nbsp;&nbsp;&nbsp;password, <br>&nbsp;&nbsp;&nbsp;&nbsp;firstName, <br>&nbsp;&nbsp;&nbsp;&nbsp;lastName, <br>&nbsp;&nbsp;&nbsp;&nbsp;email, <br>&nbsp;&nbsp;&nbsp;&nbsp;birthDate, <br>&nbsp;&nbsp;&nbsp;&nbsp;phoneNumber, <br>&nbsp;&nbsp;&nbsp;&nbsp;{repeating} productOptInX, optInForXCost.<br><br>
 2. PRODUCT
-  DB info required: <br>productName, <br>productQualities(tradeSecret), <br>productActive.
+  DB info required: <br>&nbsp;&nbsp;&nbsp;&nbsp;productName, <br>&nbsp;&nbsp;&nbsp;&nbsp;productQualities(tradeSecret), <br>&nbsp;&nbsp;&nbsp;&nbsp;productActive.
