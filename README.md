@@ -20,9 +20,9 @@ USER (level 1) - <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nb
 API/Dev (level 2) - <br>&nbsp;&nbsp;&nbsp;&nbsp;edit SELECTED OPT-INs, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit USER ACCOUNT INFO, <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit PRODUCT PAGE, <br>&nbsp;&nbsp;&nbsp;&nbsp;view API PAGE<br><br>
 Master (Level 3) - edit all<br><br>
 
-Log in dynamic site will check username and password against USER database;
+LOG IN dynamic page will check username and password against USER database;
 
-Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted, user is forwarded to DASHBOARD page and information is displayed through a VIEWER using GET from USER database model
+Upon TRUE response from database, PERMISSIONS to PRIVATE pages are granted, user is forwarded to DASHBOARD page and information is displayed through a VIEWER using GET from USER database model
 
 DASHBOARD page<br><br>
 
