@@ -17,14 +17,15 @@ API PAGE;<br>
 Site will have 4 levels of access to PRIVATE sites<br>
 Public - level 0<br>
 USER (level 1) - view DASHBOARD, view SELECTED OPT-INs; view USER SERVICES CONCIERE; toggle PRODUCT PAGE, edit USER ACCOUNT INFO<br>
-API/Dev (level 2) - view DASHBOARD, edit PRODUCT PAGE, edit SELECTED OPT-INs, edit USER ACCOUNT INFO, view API PAGE<br>
+API/Dev (level 2) - edit SELECTED OPT-INs, edit USER ACCOUNT INFO, view DASHBOARD, edit PRODUCT PAGE, view API PAGE<br>
 Master (Level 3) - edit all<br>
 
 Log in dynamic site will check username and password against USER database;
 
 Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted, user is forwarded to DASHBOARD page and information is displayed through a VIEWER using GET from USER database model
+=============================================================
+DASHBOARD page
 
-<DASHBOARD page
   Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.
 
   Left/NAV 
@@ -33,12 +34,27 @@ Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted
   LINK to USER SERVICES CONCEIERGE 
 </
 
-<Product page
-  Print Product descriptions/PRODUCT ASSETS 
-  Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)
+USER ACCOUNT INFO page
+  Print USER info fields: userName, firstName, lastName, email, phoneNumber
+  Request edits and allow updates
 </
 
-<API page
+SELECTED OPT-INS page
+  Print PRODUCTS which USER has selected to opt-in 
+  Link to product page
+</
+
+USER SERVICES CONCIERGE page 
+  FAQ tabs
+  Report requests
+  USER history widget
+
+PRODUCT page
+  Print Product descriptions/PRODUCT ASSETS 
+  Product Opt-in/TOGGLE BUTTON to OPTIN (EDIT USER DATABASE)
+</  
+
+API page
   APIuser DISPLAYS: each Product and "OPT-Ins" to product by userName
   DISPLAYS each PRODUCT with toggle for ACTIVE/INACTIVE
 </
