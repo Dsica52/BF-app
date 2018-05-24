@@ -14,7 +14,7 @@ Site will 6 PRIVATE pages:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;PRODUCT PAGE;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;API PAGE;<br>
 
-Site will have 4 levels of access to PRIVATE sites<br><br>
+Site will have 4 levels of access to PRIVATE pages<br><br>
 Public - level 0<br><br>
 USER (level 1) - <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nbsp;&nbsp;view SELECTED OPT-INs; <br>&nbsp;&nbsp;&nbsp;&nbsp;view USER SERVICES CONCIERE; <br>&nbsp;&nbsp;&nbsp;&nbsp;toggle PRODUCT PAGE, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit USER ACCOUNT INFO<br><br>
 API/Dev (level 2) - <br>&nbsp;&nbsp;&nbsp;&nbsp;edit SELECTED OPT-INs, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit USER ACCOUNT INFO, <br>&nbsp;&nbsp;&nbsp;&nbsp;view DASHBOARD, <br>&nbsp;&nbsp;&nbsp;&nbsp;edit PRODUCT PAGE, <br>&nbsp;&nbsp;&nbsp;&nbsp;view API PAGE<br><br>
