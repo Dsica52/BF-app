@@ -6,19 +6,19 @@ Application is for members to view and opt-in to PRODUCTS presented via pages
 
 The site will host 4 PUBLIC pages. 3 static and 1 dynamic for LOG-IN
 
-Site will 6 PRIVATE pages:
-DASHBOARD;
-USER ACCOUNT INFO;
-SELECTED OPT-INs;
-USER SERVICES CONCIERGE;
-PRODUCT PAGE;
-API PAGE;
+Site will 6 PRIVATE pages:<br>
+DASHBOARD;<br>
+USER ACCOUNT INFO;<br>
+SELECTED OPT-INs;<br>
+USER SERVICES CONCIERGE;<br>
+PRODUCT PAGE;<br>
+API PAGE;<br>
 
-Site will have 4 levels of access to PRIVATE sites
-Public - level 0
-USER (level 1) - view DASHBOARD, view SELECTED OPT-INs; view USER SERVICES CONCIERE; toggle PRODUCT PAGE, edit USER ACCOUNT INFO
-API/Dev (level 2) - view DASHBOARD, edit PRODUCT PAGE, edit SELECTED OPT-INs, edit USER ACCOUNT INFO, view API PAGE
-Master (Level 3) - edit all
+Site will have 4 levels of access to PRIVATE sites<br>
+Public - level 0<br>
+USER (level 1) - view DASHBOARD, view SELECTED OPT-INs; view USER SERVICES CONCIERE; toggle PRODUCT PAGE, edit USER ACCOUNT INFO<br>
+API/Dev (level 2) - view DASHBOARD, edit PRODUCT PAGE, edit SELECTED OPT-INs, edit USER ACCOUNT INFO, view API PAGE<br>
+Master (Level 3) - edit all<br>
 
 Log in dynamic site will check username and password against USER database;
 
