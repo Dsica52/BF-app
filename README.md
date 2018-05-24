@@ -27,7 +27,7 @@ Upon TRUE response from database, PERMISSIONS to PRIVATE pages/posts are granted
 DASHBOARD page<br><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;Center/BODY of the dashboard viewer LINKED PRODUCT TEASER to products will be PRINTED if they are ACTIVE for opt-in.<br>
-  Left/NAV <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Left/NAV <br>
   &nbsp;&nbsp;&nbsp;&nbsp;LINK to account info/USER DATABASE EDIT page<br>
   &nbsp;&nbsp;&nbsp;&nbsp;LINK Current product opt-ins/USER DATABASE SELECTED OPT-INS page<br>
   &nbsp;&nbsp;&nbsp;&nbsp;LINK to USER SERVICES CONCEIERGE <br>
